@@ -18,4 +18,4 @@ While working, I've found that I sometimes implicitly expect people to understan
 ## Final Project:
 
 
-### Last updated: 04 September 2023
+**Last updated: 04 September 2023**
