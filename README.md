@@ -1,8 +1,6 @@
 # TSWD
 Abigail Brown's repository for Telling Stories with Data class, Fall 2023
 
-My URL is: https://abiabrown.github.io/TSWD/
-
 # About Me
 My name is Abigail Brown. I'm a second year student in the Masters of Information Systems Management -- Business Intelligence and Data Analytics program in Heinz College at Carnegie Mellon. I have a variety of interests, including running, cooking, and of course studying data and drawing conclusions from it.
 
@@ -17,5 +15,9 @@ While working, I've found that I sometimes implicitly expect people to understan
 
 ## Final Project:
 
+
+#### Links:
+My homepage URL is: https://abiabrown.github.io/TSWD/
+My page 2 URL is: https://abiabrown.github.io/TSWD/page2
 
 **Last updated: 04 September 2023**
