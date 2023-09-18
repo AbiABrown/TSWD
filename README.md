@@ -17,7 +17,7 @@ While working, I've found that I sometimes implicitly expect people to understan
 
 
 #### Links:
-My homepage URL is: https://abiabrown.github.io/TSWD/  
+My homepage URL is: [Home](https://abiabrown.github.io/TSWD/)  
 My page 2 URL is: https://abiabrown.github.io/TSWD/page2   
 My URL for Assignment 2 is: https://abiabrown.github.io/TSWD/Assignment2   
 My URL for the in class exercise on 12 September 2023: https://abiabrown.github.io/TSWD/In-Class_9-12   
