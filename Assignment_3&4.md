@@ -1,6 +1,10 @@
 # Critique By Redesign    
 ## The Original Visualization    
-Original Visualization: [The Living Wage Gap](https://www.statista.com/chart/25574/living-wage-vs-minimum-wage-by-us-state/)    
+Original Visualization:
+
+![Original](/Original.png)
+
+Link: [The Living Wage Gap](https://www.statista.com/chart/25574/living-wage-vs-minimum-wage-by-us-state/)    
 I chose this visualization because I thought it was rather middle-of-the-road in terms of quality (neither the worst I've seen nor the greatest), so it had potential for improvement, and it met the requirements of the assignment. I haven't found any critiques of this visualization, the data cited is still publicly available (found [here](https://livingwage.mit.edu)) and the visualization itself is still publicly available. I didn't think the visualization was beyond redemption or the worst I've ever seen, but I didn't think it was the greatest either. Some glaring improvements needed to be made, but there were some good foundational pieces.
 
 Although I find myself rather neutral when it comes to a debate over the minimum wage, I thought the data were interesting and was curious to see if I could find any regional patterns. I believe I did, which makes the project somewhat rewarding for me, personally. Although I did not include this in my final visualization  as I thought it would be a little overwhelming, I found it interesting to see how which states were "bad" and "good" shifted slightly when I switched from dollar amounts to percentatges.    
