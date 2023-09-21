@@ -10,6 +10,7 @@ I chose this visualization because I thought it was rather middle-of-the-road in
 Although I find myself rather neutral when it comes to a debate over the minimum wage, I thought the data were interesting and was curious to see if I could find any regional patterns. I believe I did, which makes the project somewhat rewarding for me, personally. Although I did not include this in my final visualization  as I thought it would be a little overwhelming, I found it interesting to see how which states were "bad" and "good" shifted slightly when I switched from dollar amounts to percentatges.    
 
 ## My Journey    
+#### A Slightly Unchronological Narrative   
 I wasn't sure whether Tableau or Flourish would be my prefered tool for making this visualization, so I started with both. After some time working in Flourish, I ran into some difficulty getting particulars of the data to render as I preferred, so I switched to Tableau. Tableau rendered these things the way I envisioned, so that was my tool for the rest of the project.
 My Flourish Design:
 
