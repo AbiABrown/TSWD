@@ -1,12 +1,14 @@
 # Critique By Redesign    
 ## The Original Visualization    
-[The Living Wage Gap](https://www.statista.com/chart/25574/living-wage-vs-minimum-wage-by-us-state/)    
-I chose this visualization because I thought it was rather middle-of-the-road in terms of quality (neither the worst I've seen nor the greatest), so it had potential for improvement, and it met the requirements of the assignment. It is possible that this visualization has been critiqued before, but I haven't found any critiques. The data cited is still publicly available (found [here](https://livingwage.mit.edu)) and the visualization itself is still publicly available. I didn't think the visualization was beyond redemption or the worst I've ever seen, but I didn't think it was the greatest either. Some glaring improvements needed to be made, but there were some good foundational steps.
+Original Visualization: [The Living Wage Gap](https://www.statista.com/chart/25574/living-wage-vs-minimum-wage-by-us-state/)    
+I chose this visualization because I thought it was rather middle-of-the-road in terms of quality (neither the worst I've seen nor the greatest), so it had potential for improvement, and it met the requirements of the assignment. I haven't found any critiques of this visualization, the data cited is still publicly available (found [here](https://livingwage.mit.edu)) and the visualization itself is still publicly available. I didn't think the visualization was beyond redemption or the worst I've ever seen, but I didn't think it was the greatest either. Some glaring improvements needed to be made, but there were some good foundational pieces.
 
 Although I find myself rather neutral when it comes to a debate over the minimum wage, I thought the data were interesting and was curious to see if I could find any regional patterns. I believe I did, which makes the project somewhat rewarding for me, personally. Although I did not include this in my final visualization  as I thought it would be a little overwhelming, I found it interesting to see how which states were "bad" and "good" shifted slightly when I switched from dollar amounts to percentatges.    
 
 ## My Journey    
 I wasn't sure whether Tableau or Flourish would be my prefered tool for making this visualization, so I started with both. After some time working in Flourish, I ran into some difficulty getting particulars of the data to render as I preferred, so I switched to Tableau. Tableau rendered these things the way I envisioned, so that was my tool for the rest of the project.
+
+
 
 For the initial notebook sketch, it was very much so a "sketch". I picked one color and then labeled which states got which shades... which I altered for my final product. I received constructive criticism from two classmates, who made some of the following suggestions (paraphrased):   
 - Including the number with each state was a good way to highlight state differences
@@ -36,21 +38,18 @@ I pretty much stuck with my initial resolutions. The only real addition to the e
 
 Getting the states to be labeled in such a way that each one had a label without the labels running over each other was a challenge. I ended up using annotations for most of the smaller states and disabling their auto-labeling. This prevented smaller states from auto-rendering labels that ran over their borders, but still allowed readers to see their "big" statistic at a glance. Hovering over each state showed more data, if a reader decided they were interested. I found this interactive method to provide the best of both worlds, as the map is not too data-heavy at a glance, but further information is just a mouse movement away from a curious reader.
 
-I looked up how to do a lot of things in Tableau and did a lot of exploring to get my table formatted the way I wanted. I didn't realize that publishing would change how the map rendered slightly, with regard to the labels and annotations I added (the colors also shifted a bit). I feel that the final version on the desktop was more desirable than the published version, but maybe that's just because I got attached to the version as I was making it. Here's the final rendition:
+I looked up how to do a lot of things in Tableau and did a lot of exploring to get my table formatted the way I wanted. I didn't realize that publishing would change how the map rendered slightly, with regard to the labels and annotations I added (the colors also shifted a bit). Sharing the embedded code also changed some of the layout, which made it very frustrating to get a good final version. Truly, it felt rather like guesswork. I feel that the final version on the desktop was less crowded and more legible than what I ended up with after publishing, which is rather unfortunate. Here's the final rendition:
 
-<div class='tableauPlaceholder' id='viz1695264073949' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1695264862641' style='position: relative'>
  <noscript>
   <a href='#'>
    <img alt='Minimum Wage as a Percentage of &quot;Living Wage&quot;Single Adults, No Children ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_16952631849160&#47;Dashboard1&#47;1_rss.png' style='border: none' />
   </a>
  </noscript>
- <object class='tableauViz'  style='display:none;'>
-  <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
-  <param name='embed_code_version' value='3' />
+ <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
   <param name='site_root' value='' />
   <param name='name' value='Assignment34_16952631849160&#47;Dashboard1' />
-  <param name='tabs' value='no' />
-  <param name='toolbar' value='yes' />
+  <param name='tabs' value='no' /><param name='toolbar' value='yes' />
   <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_16952631849160&#47;Dashboard1&#47;1.png' />
   <param name='animate_transition' value='yes' />
   <param name='display_static_image' value='yes' />
@@ -62,13 +61,11 @@ I looked up how to do a lot of things in Tableau and did a lot of exploring to g
  </object>
 </div>
 <script type='text/javascript'>
- var divElement = document.getElementById('viz1695264073949');
+ var divElement = document.getElementById('viz1695264862641');
  var vizElement = divElement.getElementsByTagName('object')[0];
- if ( divElement.offsetWidth > 800 )
- { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
- else if ( divElement.offsetWidth > 500 )
- { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
- else { vizElement.style.width='100%';vizElement.style.height='827px';}
+ if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
+ else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
+ else { vizElement.style.width='100%';vizElement.style.height='777px';}
  var scriptElement = document.createElement('script');
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
  vizElement.parentNode.insertBefore(scriptElement, vizElement);
