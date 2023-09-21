@@ -8,7 +8,11 @@ Although I find myself rather neutral when it comes to a debate over the minimum
 ## My Journey    
 I wasn't sure whether Tableau or Flourish would be my prefered tool for making this visualization, so I started with both. After some time working in Flourish, I ran into some difficulty getting particulars of the data to render as I preferred, so I switched to Tableau. Tableau rendered these things the way I envisioned, so that was my tool for the rest of the project.
 
+![My Flourish Attempt](/Flourish.png)
 
+My Flourish design wasn't terrible, but it wasn't quite all I was hoping for, either.
+
+Gathering the data was rather tedious, as it wasn't available in CSV or any other downloadable format and the fastest way to gather it was, unfortunately, to visit each state and copy the relevant data. Since there are only 50 states and the urls were in a logical order, it wasn't a terrible experience, but it was a little disappointing to not have pre-formatted data. Manipulating the data (adding columns for the difference, etc.) was fairly straightforward and I was able to do it in Excel, which made uploading to Tableau quite easy.
 
 For the initial notebook sketch, it was very much so a "sketch". I picked one color and then labeled which states got which shades... which I altered for my final product. I received constructive criticism from two classmates, who made some of the following suggestions (paraphrased):   
 - Including the number with each state was a good way to highlight state differences
