@@ -7,6 +7,7 @@ Although I find myself rather neutral when it comes to a debate over the minimum
 
 ## My Journey    
 I wasn't sure whether Tableau or Flourish would be my prefered tool for making this visualization, so I started with both. After some time working in Flourish, I ran into some difficulty getting particulars of the data to render as I preferred, so I switched to Tableau. Tableau rendered these things the way I envisioned, so that was my tool for the rest of the project.
+My Flourish Design:
 
 ![My Flourish Attempt](/Flourish.png)
 
