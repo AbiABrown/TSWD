@@ -10,16 +10,19 @@ While working, I've found that I sometimes implicitly expect people to understan
 # Portfolio
 
 ## Assignment 2:
+[Assignment 2](https://abiabrown.github.io/TSWD/Assignment2)   
 
 ## Assignment 3&4:
+[Assignment 3 & 4](https://abiabrown.github.io/TSWD/Assignment_3&4) 
 
 ## Final Project:
 
 
 #### Links:
 My homepage URL is: [Home](https://abiabrown.github.io/TSWD/)  
-My page 2 URL is: https://abiabrown.github.io/TSWD/page2   
-My URL for Assignment 2 is: https://abiabrown.github.io/TSWD/Assignment2   
-My URL for the in class exercise on 12 September 2023: https://abiabrown.github.io/TSWD/In-Class_9-12   
+My page 2 URL is: [Page 2](https://abiabrown.github.io/TSWD/page2)   
+My URL for Assignment 2 is: [Assignment 2](https://abiabrown.github.io/TSWD/Assignment2)   
+My URL for the in class exercise on 12 September 2023: [ICE 12SEP](https://abiabrown.github.io/TSWD/In-Class_9-12)   
+My URL for Assignment 3 & 4 is: [Assignment 3 & 4](https://abiabrown.github.io/TSWD/Assignment_3&4)   
 
-**Last updated: 12 September 2023**
+**Last updated: 20 September 2023**
