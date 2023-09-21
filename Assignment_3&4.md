@@ -38,15 +38,18 @@ I pretty much stuck with my initial resolutions. The only real addition to the e
 
 Getting the states to be labeled in such a way that each one had a label without the labels running over each other was a challenge. I ended up using annotations for most of the smaller states and disabling their auto-labeling. This prevented smaller states from auto-rendering labels that ran over their borders, but still allowed readers to see their "big" statistic at a glance. Hovering over each state showed more data, if a reader decided they were interested. I found this interactive method to provide the best of both worlds, as the map is not too data-heavy at a glance, but further information is just a mouse movement away from a curious reader.
 
-I looked up how to do a lot of things in Tableau and did a lot of exploring to get my table formatted the way I wanted. I didn't realize that publishing would change how the map rendered slightly, with regard to the labels and annotations I added (the colors also shifted a bit). Sharing the embedded code also changed some of the layout, which made it very frustrating to get a good final version. Truly, it felt rather like guesswork. I feel that the final version on the desktop was less crowded and more legible than what I ended up with after publishing, which is rather unfortunate. Here's the final rendition:
+## End Result
+I explored and looked up a lot of Tableau functionality to get my map formatted the way I wanted. I didn't realize that publishing would change how the map rendered with regard to the labels and annotations I added (the colors also shifted a bit and the state borders roughly doubled in thickness). Sharing the embedded code also changed some of the layout, which made it very frustrating to get a good final version. Truly, it felt rather like guesswork, since I had to edit in Desktop, publish, then check the rendering in my GitHub public page before I could see if a change had the effect I wanted. I feel that the final version on the desktop was less crowded and more legible than what I ended up with after publishing, which is rather unfortunate. Here's the final rendition:
 
-<div class='tableauPlaceholder' id='viz1695264862641' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1695265410491' style='position: relative'>
  <noscript>
   <a href='#'>
    <img alt='Minimum Wage as a Percentage of &quot;Living Wage&quot;Single Adults, No Children ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment34_16952631849160&#47;Dashboard1&#47;1_rss.png' style='border: none' />
   </a>
  </noscript>
- <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' />
+ <object class='tableauViz'  style='display:none;'>
+  <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+  <param name='embed_code_version' value='3' />
   <param name='site_root' value='' />
   <param name='name' value='Assignment34_16952631849160&#47;Dashboard1' />
   <param name='tabs' value='no' /><param name='toolbar' value='yes' />
@@ -61,7 +64,7 @@ I looked up how to do a lot of things in Tableau and did a lot of exploring to g
  </object>
 </div>
 <script type='text/javascript'>
- var divElement = document.getElementById('viz1695264862641');
+ var divElement = document.getElementById('viz1695265410491');
  var vizElement = divElement.getElementsByTagName('object')[0];
  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
  else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';}
