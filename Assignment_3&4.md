@@ -61,3 +61,6 @@ I explored and looked up a lot of Tableau functionality to get my map formatted 
 </script>
 
 Note that I included an additional source for further study in the caption for an [Explanation of Living Wage](https://livingwage.mit.edu/resources/Living-Wage-Users-Guide-Technical-Documentation-2023-02-01.pdf). As a summary, living wage is an estimate of the cost of living in a particular area. It accounts for more than what the poverty wage (which is the same across the entire continental US) accounts for. It accounts for the cost of what we consider basic needs in America and calculates the hourly wage that would be needed to meet these needs.
+
+#### Link
+Link to this page's URL: [Assignment 3 & 4](https://abiabrown.github.io/TSWD/Assignment_3&4)
