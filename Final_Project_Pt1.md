@@ -11,6 +11,7 @@ VI. Call to action. This is the most subject to change, as I have not run an ana
 I expect this last option will be the most likely outcome, but I don't want to jump to any conclusions before analyzing the data. It may also be that there is a weaker conclusion drawn that will result in a hybrid between two of the calls.   
 #### Note on the Outline
 I expect the details of the presentation will shift as I analyze the data, so I do not expect that this outline is the final version.   
+
 # Initial Sketches
 I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
 River Throughput:   
@@ -25,8 +26,10 @@ After looking at these charts, I think that it's obvious I'm going to have to wo
 As a proxy for how much water is being used, I'd like to examine population data in states that utilize the river's resources. I will take this data from the US Census Bureau [census.gov](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). I will keep the data for these seven states (Colorado, Wyoming, Utah, Nevada, California, Arizona, and New Mexico) separate to see if I find any interesting patterns while analyzing. I will, however, combine them for certain key visualizations. Due to the large size of California and its relatively short border with the river, I may have to do more research to find out which parts of California depend on the river and narrow the census data to just those counties.   
 To narrow my focus on river levels, I will specifically be examining the annual discharge in cubic feet per second from a particular location. Right now, I intend to use the Grand Canyon measurements, because Arizona is fairly downstream and past the Hoover Dam, and the Grand Canyon is a well-known location for the audience (at least compared to other available choices) [USGS](https://waterdata.usgs.gov/nwis/annual?referred_module=sw&search_site_no=09402500&format=sites_selection_links). I haven't analyzed the data yet, so if this location proves to be less than useful, I may pick another location further downstream or incorporate multiple locations. I may also include the southernmost US point, since this point may tell a more compelling story than the Grand Canyon will.   
 If I think my visualizations have unusual patterns during certain years, I may include years that major dams (like the Hoover Dam) were installed and see if they help explain these unusual patterns. Since these are individual, single points of data, I will likely use several sources for them, if I use them at all.
+
 # Method & Medium
 As of right now, I plan to use Shorthand to document this project. I intend the order of the story to be a brief background, charts as proposed in the data analysis portion of the outline above, then a brief conclusion and call to action. For the sake of honesty, I will probably include notes at the end that are not critical to the story to acknowledge shortcomings in the methodology (obviously, the population of the states doesn't explain EVERYTHING). Depending on how the project goes, I may elect to add more visualizations, perhaps separating upper and lower basin states or isolating California.
+
 # Final Thoughts/Revised Outline
 So, after recording all of my initial thoughts on this page and doing a precursory examination of the data, I think my story will look something like this:   
 I. Background/Introduction: I will discuss the water shortage issues plaging the West and how the Colorado River supplies much of the water for this area.   
