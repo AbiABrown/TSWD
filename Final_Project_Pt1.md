@@ -14,9 +14,9 @@ I expect the details of the presentation will shift as I analyze the data, so I 
 # Initial Sketches
 I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
 River Throughput:   
-![River Throughput](/Sketch 1.png)   
+![River Throughput](/Sketch_1.png)   
 Population by State:   
-![Local Population](/Sketch 2.png)   
+![Local Population](/Sketch_2.png)   
 
 # The Data
 As a proxy for how much water is being used, I'd like to examine population data in states that utilize the river's resources. I will take this data from the US Census Bureau [census.gov](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). I will keep the data for these seven states (Colorado, Wyoming, Utah, Nevada, California, Arizona, and New Mexico) separate to see if I find any interesting patterns while analyzing. I will, however, combine them for certain key visualizations. Due to the large size of California and its relatively short border with the river, I may have to do more research to find out which parts of California depend on the river and narrow the census data to just those counties.   
