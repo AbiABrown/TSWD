@@ -12,7 +12,12 @@ I expect this last option will be the most likely outcome, but I don't want to j
 #### Note on the Outline
 I expect the details of the presentation will shift as I analyze the data, so I do not expect that this outline is the final version.
 # Initial Sketches
-Coming soon
+I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
+River Throughput:   
+![River Throughput](/Sketch 1.png)   
+Population by State:   
+![Local Population](/Sketch 2.png)   
+
 # The Data
 As a proxy for how much water is being used, I'd like to examine population data in states that utilize the river's resources. I will take this data from the US Census Bureau [census.gov](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). I will keep the data for these seven states (Colorado, Wyoming, Utah, Nevada, California, Arizona, and New Mexico) separate to see if I find any interesting patterns while analyzing. I will, however, combine them for certain key visualizations. Due to the large size of California and its relatively short border with the river, I may have to do more research to find out which parts of California depend on the river and narrow the census data to just those counties.   
 To narrow my focus on river levels, I will specifically be examining the annual discharge in cubic feet per second from a particular location. Right now, I intend to use the Grand Canyon measurements, because Arizona is fairly downstream and past the Hoover Dam, and the Grand Canyon is a well-known location for the audience (at least compared to other available choices) [USGS](https://waterdata.usgs.gov/nwis/annual?referred_module=sw&search_site_no=09402500&format=sites_selection_links). I haven't analyzed the data yet, so if this location proves to be less than useful, I may pick another location further downstream or incorporate multiple locations. I may also include the southernmost US point, since this point may tell a more compelling story than the Grand Canyon will.   
