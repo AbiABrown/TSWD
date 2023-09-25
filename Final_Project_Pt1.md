@@ -18,7 +18,7 @@ River Throughput:
 Population by State:   
 ![Local Population](/Sketch_2.png)   
 Correlation between population growth and population:
-![Correlation](/Sketch_3.png)   
+![Correlation](/Sketch_3a.png)   
 After looking at these charts, I think that it's obvious I'm going to have to work on editing some aspects of the graphs to make them more useful and legible for readers (i.e. so they actually tell a story). Furthermore, I will likely have to pare down California's census data to certain counties or regions in the state, since its population overshadows all the other states by such a large amount. I may also change how I group the river throughput data, since it can vary so widely year-to-year.
 
 # The Data
@@ -34,4 +34,4 @@ II. I will begin introducing the river levels since 1923 and show a chart of the
 III. I will introduce the population levels and show the growth since 1920 (the initial sketch showed 1910, but it was just a sketch).   
   A. A chloropleth map of the region with the population as the data of interest might be interesting to put in this section, but I'm not yet sure I'll pursue this aspect of the story.   
 IV. I will show the correlation between more humans and less water with another chart.   
-V. I will implement the call to action. I expect the call will be mostly choice 3 from the initial outline. If I am fortunate enough to find public data on which states get how much water, I may incorporate a bar chart to put the ratios in perspective in this    
+V. I will implement the call to action. I'm still not sure which choice from the initial outline will fit the call the best. I thought it would surely be the third option, until I took the ten-year averages of throughput and plotted it against the population. Now I'm not sure. I will have to further analyze the data to find a meaningful conclusion.  
