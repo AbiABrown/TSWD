@@ -14,9 +14,12 @@ I expect the details of the presentation will shift as I analyze the data, so I 
 # Initial Sketches
 I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
 River Throughput:   
-![River Throughput](/Sketch_1.png)   
+![River Throughput](/Sketch_1a.png)   
 Population by State:   
 ![Local Population](/Sketch_2.png)   
+Correlation between population growth and population:
+![Correlation](/Sketch_3.png)   
+After looking at these charts, I think that it's obvious I'm going to have to work on editing some aspects of the graphs to make them more useful and legible for readers (i.e. so they actually tell a story). Furthermore, I will likely have to pare down California's census data to certain counties or regions in the state, since its population overshadows all the other states by such a large amount. I may also change how I group the river throughput data, since it can vary so widely year-to-year.
 
 # The Data
 As a proxy for how much water is being used, I'd like to examine population data in states that utilize the river's resources. I will take this data from the US Census Bureau [census.gov](https://www.census.gov/data/tables/time-series/dec/popchange-data-text.html). I will keep the data for these seven states (Colorado, Wyoming, Utah, Nevada, California, Arizona, and New Mexico) separate to see if I find any interesting patterns while analyzing. I will, however, combine them for certain key visualizations. Due to the large size of California and its relatively short border with the river, I may have to do more research to find out which parts of California depend on the river and narrow the census data to just those counties.   
@@ -24,3 +27,11 @@ To narrow my focus on river levels, I will specifically be examining the annual 
 If I think my visualizations have unusual patterns during certain years, I may include years that major dams (like the Hoover Dam) were installed and see if they help explain these unusual patterns. Since these are individual, single points of data, I will likely use several sources for them, if I use them at all.
 # Method & Medium
 As of right now, I plan to use Shorthand to document this project. I intend the order of the story to be a brief background, charts as proposed in the data analysis portion of the outline above, then a brief conclusion and call to action. For the sake of honesty, I will probably include notes at the end that are not critical to the story to acknowledge shortcomings in the methodology (obviously, the population of the states doesn't explain EVERYTHING). Depending on how the project goes, I may elect to add more visualizations, perhaps separating upper and lower basin states or isolating California.
+# Final Thoughts/Revised Outline
+So, after recording all of my initial thoughts on this page and doing a precursory examination of the data, I think my story will look something like this:   
+I. Background/Introduction: I will discuss the water shortage issues plaging the West and how the Colorado River supplies much of the water for this area.   
+II. I will begin introducing the river levels since 1923 and show a chart of these levels.   
+III. I will introduce the population levels and show the growth since 1920 (the initial sketch showed 1910, but it was just a sketch).   
+  A. A chloropleth map of the region with the population as the data of interest might be interesting to put in this section, but I'm not yet sure I'll pursue this aspect of the story.   
+IV. I will show the correlation between more humans and less water with another chart.   
+V. I will implement the call to action. I expect the call will be mostly choice 3 from the initial outline. If I am fortunate enough to find public data on which states get how much water, I may incorporate a bar chart to put the ratios in perspective in this    
