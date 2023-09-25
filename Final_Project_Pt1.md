@@ -8,9 +8,9 @@ VI. Call to action. This is the most subject to change, as I have not run an ana
   1. The river levels haven't significantly changed. This would result in the call to action being to not worry and carry on business-as-usual. The Colorado River will be fine and we humans can continue to eat our winter vegetables and move west.
   2. The river levels have dropped significantly, but it's uncorrelated with population growth. The call to action would be to exercise caution; there may not be anything we can do about a natural drought (or a drought caused by global human activity), but anyone who lives near the river can be conscious not to waste the little water they have and the rest of us can pay attention to where our produce comes from.
   3. The river levels have dropped significantly, and it's definitely correlated with population growth. The call to action would be to think twice about moving out to an area that depends on the river. Our current course of action regarding water distribution may not be sustainable, and the readers may want to exercise caution if considering relocating to a state that depends on the river and its tributaries for water. Non-local readers may want to be more mindful of where their produce comes from.     
-I expect this last option will be the most likely outcome, but I don't want to jump to any conclusions before analyzing the data. It may also be that there is a weaker conclusion drawn that will result in a hybrid between two of the calls.
+I expect this last option will be the most likely outcome, but I don't want to jump to any conclusions before analyzing the data. It may also be that there is a weaker conclusion drawn that will result in a hybrid between two of the calls.   
 #### Note on the Outline
-I expect the details of the presentation will shift as I analyze the data, so I do not expect that this outline is the final version.
+I expect the details of the presentation will shift as I analyze the data, so I do not expect that this outline is the final version.   
 # Initial Sketches
 I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
 River Throughput:   
