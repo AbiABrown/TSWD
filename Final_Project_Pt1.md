@@ -13,11 +13,11 @@ I expect this last option will be the most likely outcome, but I don't want to j
 I expect the details of the presentation will shift as I analyze the data, so I do not expect that this outline is the final version.   
 
 # Initial Sketches
-I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel.   
+I put some sketches together in Excel once I downloaded the data and cleaned it. Obviously, the final products will not be in Excel but from a cleaner platform, like Tableau.   
 River Throughput:   
 ![River Throughput](/Sketch_1a.png)   
-Population by State:   
-![Local Population](/Sketch_2.png)   
+Population Growth in States that Colorado River water:   
+![Local Population](/Sketch_2_v2.png)   
 Correlation between population growth and population:
 ![Correlation](/Sketch_3a.png)   
 After looking at these charts, I think that it's obvious I'm going to have to work on editing some aspects of the graphs to make them more useful and legible for readers (i.e. so they actually tell a story). Furthermore, I will likely have to pare down California's census data to certain counties or regions in the state, since its population overshadows all the other states by such a large amount. I may also change how I group the river throughput data, since it can vary so widely year-to-year.
