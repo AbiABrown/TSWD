@@ -114,6 +114,8 @@ Problem: The population and water level graph weren't introduced sufficiently
 Change: Make a smoother introduction to clarify the graphs   
 Problem: The analysis wasn't clear   
 Change: Clarify the significance of the statistical analysis used
+Problem: Not everyone knows what "smoothing" data means   
+Change: Add some more explanations of analysis methods so the uninitiated audience understands the analysis better.   
 
 
 ##### Link to main: [Homepage](https://abiabrown.github.io/TSWD/)
