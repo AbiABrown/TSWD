@@ -38,3 +38,7 @@ III. I will introduce the population levels and show the growth since 1920 (the 
   A. A chloropleth map of the region with the population as the data of interest might be interesting to put in this section, but I'm not yet sure I'll pursue this aspect of the story.   
 IV. I will show the correlation between more humans and less water with another chart.   
 V. I will implement the call to action. I'm still not sure which choice from the initial outline will fit the call the best. I thought it would surely be the third option, until I took the ten-year averages of throughput and plotted it against the population. Now I'm not sure. I will have to further analyze the data to find a meaningful conclusion.  
+
+[Home](https://abiabrown.github.io/TSWD/)   
+[Part 2](https://abiabrown.github.io/TSWD/Final_Project_Pt2)   
+[Part 3](https://abiabrown.github.io/TSWD/Final_Project_Pt3)
