@@ -18,6 +18,7 @@ While working, I've found that I sometimes implicitly expect people to understan
 ## Final Project:
 [Final Project Pt 1](https://abiabrown.github.io/TSWD/Final_Project_Pt1)   
 [Final Project Pt 2](https://abiabrown.github.io/TSWD/Final_Project_Pt2)   
+[Final Project Pt 3](https://abiabrown.github.io/TSWD/Final_Project_Pt3)
 
 #### Links:
 My homepage URL is: [Home](https://abiabrown.github.io/TSWD/)  
@@ -27,5 +28,6 @@ My URL for the in class exercise on 12 September 2023: [ICE 12SEP](https://abiab
 My URL for Assignment 3 & 4 is: [Assignment 3 & 4](https://abiabrown.github.io/TSWD/Assignment_3&4)   
 My URL for the Final Project, Part 1: [Final Project Pt 1](https://abiabrown.github.io/TSWD/Final_Project_Pt1)    
 My URL for the Final Project, Part 2: [Final Project Pt 2](https://abiabrown.github.io/TSWD/Final_Project_Pt2)    
+My URL for the Final Project, Part 3: [Final Project Pt 3](https://abiabrown.github.io/TSWD/Final_Project_Pt3)   
 
-**Last updated: 03 October 2023**
+**Last updated: 13 October 2023**
