@@ -118,4 +118,7 @@ Problem: Not everyone knows what "smoothing" data means
 Change: Add some more explanations of analysis methods so the uninitiated audience understands the analysis better.   
 
 
-##### Link to main: [Homepage](https://abiabrown.github.io/TSWD/)
+##### Links
+[Homepage](https://abiabrown.github.io/TSWD/)
+[Part 1](https://abiabrown.github.io/TSWD//Final_Project_Pt1)
+[Part 3](https://abiabrown.github.io/TSWD/Final_Project_Pt3)
