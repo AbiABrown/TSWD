@@ -1,7 +1,7 @@
 # The Final Story
 Here's a link to the final version of the Colorado River story: [Shorthand Story](https://carnegiemellon.shorthandstories.com/colorado-river-levels-and-population-growth-draft1/index.html)   
 
-# Changes Since Part 2
+## Changes Since Part 2
 Although much of the final version was complete after Part II, I did make a few small modifications.   
 Based on the feedback I got from the interviews, I adjusted the colors to be a little more uniform and got rid of the default distracting orange. I shortened the call to action section to make it easier to digest. I also worked to rephrase a few sections of the words to add clarity (particularly around the correlation section) and adjusted some of the formatting in Shorthand. I added a couple more callout graphics from the Noun Project toward the end and added some icons to all of the callouts to make the presentation easier on the eyes. I also added a background picture of the Hoover Dam to one of the sections.   
 Overall, my changes since Part 2 focused on design and visuals, rather than content. I didn't get a whole lot of suggested improvements on the content from part 2, but I did get some suggestions for improving the visuals and overall appeal of the design and story.
