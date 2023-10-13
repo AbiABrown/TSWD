@@ -16,6 +16,10 @@ This project was quite engaging for me and somewhat enjoyable. I really apprecia
 Aside from the intricacies of working with this particular data, I found it interesting how much colors matter to an audience. A story and visualization may be great, but one offputting color will ruin the whole experience for some people.   
 It's crazy how few maps are in the public domain! I'm quite grateful the Library of Congress had one I could use.   
 Audiences really seem to enjoy callout statistics. Unfortunately, I don't know that I'm artistically gifted, even in something as small as a design for a callout statistic. I think this project was a good opportunity to practice, however. I went through several designs before settling on the template I used for all the callouts in this project.   
+I'm not sure if my visualizations were the most exciting. I don't know that there's a better representation than line graphs for correlations, though. I also didn't want to mix types of visualizations for the sake of variety when that might lead to confusion. I decided it would be better to stick to all line graphs in this case.   
+I wanted to keep my scope narrow, but if I were to expand it, I would definitely have wanted to include precipitation levels and see if that was a better explanation for water throughput.    
+Finally, for the presentation, I elected to use the word, "levels", rather than "throughput", as I thought that would communicate the main idea to the audience. These two words aren't exactly interchangeable, but I thought they were close enough that the audience would still get the main idea and would be less likely to get confused.
+
 
 ## References
 Links:   
@@ -31,17 +35,13 @@ Links:
 [calmatters.org](https://calmatters.org/environment/2022/08/colorado-river-water-california/)   
 [NPR](https://www.npr.org/2022/10/04/1126240060/meet-the-california-farmers-awash-in-colorado-river-water-even-in-a-drought)   
 [energy.gov](https://www.energy.gov/femp/rainwater-harvesting-regulations-map)    
-[nrdc.org](https://www.nrdc.org/resources/feedlot-operations-why-it-matters)   
+[nrdc.org](https://www.nrdc.org/resources/feedlot-operations-why-it-matters)  
+[The Noun Project](https://thenounproject.com/)   
 
-# Final thoughts
-I'm not sure if my visuals were the most exciting. I don't know that there's a better representation than line graphs for correlations, though.   
-I wanted to keep my scope narrow, but if I were to expand it, I would definitely have wanted to include precipitation levels and see if that was a better explanation for water throughput.    
-Finally, for the presentation, I elected to use the word, "levels", rather than "throughput", as I thought that would communicate the main idea to the audience. These two words aren't exactly interchangeable, but I thought they were close enough that the audience would still get the main idea and would be less likely to get confused.
+All data was pulled from the US Census Bureau and the US Geological Survey. All photos were either from Unsplash or the Library of Congress. All icons came from the Noun Project. Feeding Ourselves Thirsty supplied some invaluable statistics. Calmatters and NRDC supplied the other callout statistics.
 
 ### Other Links
-[This page](https://abiabrown.github.io/TSWD/Final_Project_Pt3)
+[This page](https://abiabrown.github.io/TSWD/Final_Project_Pt3)   
 [Home page](https://abiabrown.github.io/TSWD/)   
-[Part 1](https://abiabrown.github.io/TSWD//Final_Project_Pt1)   
-[Part 2](https://abiabrown.github.io/TSWD/Final_Project_Pt2)
-
-Text here!
+[Part 1](https://abiabrown.github.io/TSWD//Final_Project_Pt1)     
+[Part 2](https://abiabrown.github.io/TSWD/Final_Project_Pt2)   
